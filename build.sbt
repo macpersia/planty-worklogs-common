@@ -2,7 +2,7 @@ name := "planty-worklogs-common"
 
 version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
 //  "com.typesafe.scala-logging" %% "scala-logging" % "3.1.0",
